@@ -34,6 +34,8 @@ jobs:
           # sdm845
           - polaris
           - perseus
+          # sm7125
+          - miatoll
           # sm7325
           - mona
           - lisa
